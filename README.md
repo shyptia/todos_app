@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Todos App with API
+- [DEMO LINK](https://shyptia.github.io/todos_app/)
+
+The project was made using React. You have the opportunity to view all your todos. It is possible to add and remove todo, as well as the ability to delete all completed todos at the same time. It is possible to edit the completed status of a todo, change the name of a todo, as well as change the completed status of all todos at the same time.
