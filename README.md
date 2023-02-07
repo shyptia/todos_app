@@ -13,7 +13,6 @@ The user have the opportunity to view all his todos. It is possible to add and r
 
 ### Technologies used:
 
-frontend:
 - React
 - Javascript
 - Typescript
