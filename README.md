@@ -18,8 +18,8 @@ The user have the opportunity to view all his todos. It is possible to add and r
 ### Instructions how to run application locally:
 
 1. Use 14 version of node.js.
-2. Clone the repository to your local machine, open terminal and clone repo with command bellow.
-3. Open project in terminal.
+2. Clone the repository to your local machine.
+3. Open terminal in the project.
 4. Set up project and install necessary packages:
 ```bash 
 npm install
