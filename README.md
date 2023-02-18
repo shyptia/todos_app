@@ -30,4 +30,4 @@ npm start
 ```
 6. Open application in your browser `http://localhost:3000/`
 
-### You have ability to add, delete and edit products in list
+### You have ability to add, delete and edit todos in list
